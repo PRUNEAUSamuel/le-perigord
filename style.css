@@ -1,0 +1,100 @@
+html {font-family: "Roboto";
+    font-size: 16px}
+
+body {color: aliceblue;
+    text-align: center;
+    background-color: black;
+    margin: 0;}
+
+a:hover {color: #96a702;}
+
+.a {color: aliceblue;
+    margin: 5%;
+    font-size: 3rem;}
+
+a {text-decoration: none;
+    color: aliceblue;}
+
+.info {color: black;}
+
+.info:hover {color: aliceblue;}
+
+main {background-color:grey;
+    padding-top: 1rem;
+    padding-bottom: 5rem;}
+
+header {position: sticky;
+    top: 0;}
+
+b {color: yellow;}
+
+h1, h2 {color: violet;}
+
+.adresse {color: black;
+    width: 30%;
+    justify-content: center;
+    border-radius: 30px;
+    background-color: #96a702;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: auto;
+    font-size: 1.2rem;}
+    
+
+header, footer {padding: 0.7rem;
+    background-color: black;}
+
+.foot {font-size: 3rem;
+    margin: 0;}
+
+.section {display: flex;
+    justify-content: space-between;
+    margin: 5rem 15% 5rem 15%;}
+
+.img {display: flex;
+    justify-content: space-evenly;
+    margin-top: 5rem;}
+
+img {width: 20%;
+    height: 100%;}
+
+table {background-color: pink;
+    color: black;
+    margin-left: 2rem;
+    border: 2px solid black}
+
+.heure {display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;}
+
+th, td {padding: 2rem;
+    border: 1px solid black;}
+
+h2 {margin-top: auto;
+    margin-bottom: auto;}
+
+form {display: block;}
+
+iframe {border: 0;
+    width: 50%;}
+
+.formu {background-color:orange;
+    width: 20%;
+    border-radius: 10px;
+    padding: 1rem;
+    color: black;
+    font-size: 1.5rem;
+    margin: auto;
+    margin-bottom: 1rem;}
+
+.button {background-color: green;
+    color: aliceblue;
+    padding: 6px 12px;
+    border: 1px solid}
+
+.button:hover {opacity: 70%;
+    cursor: pointer;}
+
+.zoom:hover {transition: 1s;}
+
+.imgs:hover {transform: scale(1.2);}
